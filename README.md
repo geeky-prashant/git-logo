@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![GIT Logo Desktop Demo](./readme-images/GIT Logo.png "Desktop Demo")
+![GIT Logo Desktop Demo](./readme-images/GIT-Logo.png "Desktop Demo")
 
 ### Prerequisites
 
