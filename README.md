@@ -9,7 +9,7 @@
 
   <h2 align="center">git-logo</h2>
 
-  In this project, I have created GIT Logo, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created GIT Logo, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/git-logo/"><strong>➥ Live Demo</strong></a>
 
